@@ -22,7 +22,7 @@ git clone https://github.com/UTEAST/Md5hasherut.git && chmod +x Md5hasherut/md5h
 
 ---
 
-##▶️ Usage
+## ▶️ Usage
 ```bash
 md5hasher
 ```
@@ -37,7 +37,7 @@ Password in MD5 Hash -> 0d107d09f5bbe40cade3de5c71e9hen(not real)
 
 ---
 
-##🛠 Requirements
+## 🛠 Requirements
 
 Python 3
 
@@ -52,7 +52,7 @@ This tool is for learning purposes only.
 
 ---
 
-👑 Author
+## 👑 Author
 Made by Uteast 
 www.github.com/UTEAST
 
