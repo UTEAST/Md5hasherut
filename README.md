@@ -20,6 +20,8 @@ A simple, fast, and lightweight CLI tool to convert passwords into MD5 hashes us
 git clone https://github.com/UTEAST/Md5hasherut.git && chmod +x Md5hasherut/md5hashgen.py && mv Md5hasherut/md5hashgen.py $PREFIX/bin/md5hasher && rm -rf Md5hasherut
 ```
 
+---
+
 ##▶️ Usage
 ```bash
 md5hasher
@@ -33,6 +35,7 @@ Uteast MD5 Hash Encrypter
 
 Password in MD5 Hash -> 0d107d09f5bbe40cade3de5c71e9hen(not real)
 
+---
 
 ##🛠 Requirements
 
@@ -46,6 +49,8 @@ pkg install python
 ⚠️ Disclaimer
 MD5 is NOT secure for real-world password protection.
 This tool is for learning purposes only.
+
+---
 
 👑 Author
 Made by Uteast 
