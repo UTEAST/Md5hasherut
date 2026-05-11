@@ -17,4 +17,41 @@ A simple, fast, and lightweight CLI tool to convert passwords into MD5 hashes us
 ## 📦 Installation (One-Line Setup)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/md5hasher.git && chmod +x md5hasher/md5_tool.py && mv md5hasher/md5_tool.py $PREFIX/bin/md5hasher && rm -rf md5hasher
+git clone https://github.com/UTEAST/Md5hasherut.git && chmod +x Md5hasherut/md5hashgen.py && mv Md5hasherut/md5hashgen.py $PREFIX/bin/md5hasher && rm -rf Md5hasherut
+```
+
+##▶️ Usage
+```bash
+md5hasher
+```
+
+
+🧪 Example
+
+Uteast MD5 Hash Encrypter
+>> Enter your password - Kpp
+
+Password in MD5 Hash -> 0d107d09f5bbe40cade3de5c71e9hen(not real)
+
+
+##🛠 Requirements
+
+Python 3
+
+Install in Termux:
+```Bash
+pkg install python
+```
+
+⚠️ Disclaimer
+MD5 is NOT secure for real-world password protection.
+This tool is for learning purposes only.
+
+👑 Author
+Made by Uteast 
+www.github.com/UTEAST
+
+
+
+
+
